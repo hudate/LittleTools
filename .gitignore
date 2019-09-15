@@ -1,0 +1,4 @@
+.idea
+__pycached__
+*.csv
+*.log
